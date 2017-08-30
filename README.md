@@ -8,7 +8,7 @@ Run as root
 ```sh
 apt-get install -y git
 git clone https://github.com/richarddennis/tor_relay_config.git
-cd tor-relay-bootstrap
+cd tor_relay_config
 ./bootstrap.sh
 reboot
 ```
