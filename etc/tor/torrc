@@ -1,7 +1,7 @@
 SocksPort 0
 Log notice file /var/log/tor/notices.log
 RunAsDaemon 1
-ORport 9001
+ORPort 9001
 DirPort 9030
 ExitPolicy reject *:*
 
