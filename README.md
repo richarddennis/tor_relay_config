@@ -5,7 +5,10 @@ TODO - Modify the torrc file (do one for relays one for bridges - auto do the ni
 
 Run as root
 
+```sh
 apt-get install -y git
 git clone https://github.com/coldhakca/tor-relay-bootstrap.git
 cd tor-relay-bootstrap
 ./bootstrap.sh
+reboot
+```
